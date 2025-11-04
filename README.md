@@ -1,0 +1,2 @@
+Downloading the batch file will contain all the things you will need to get started managing your new dedicated steam instance or tool installation.
+  Simply double click the batch file once it is on your desktop to get started.
